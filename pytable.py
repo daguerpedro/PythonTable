@@ -1,5 +1,3 @@
-from dataclasses import dataclass
-
 class PyTable:
     def __init__(self) -> None:
         self.border = '|'
